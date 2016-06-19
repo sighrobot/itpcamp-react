@@ -23,5 +23,6 @@
   + passing `props`
 
 ## React essentials
+  + [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) (`className`, [forms](https://facebook.github.io/react/docs/forms.html))
   + State vs. props
   + Lifecycle methods
